@@ -1,7 +1,7 @@
 ### Hello fellow learners  👋
 
 
-<img src="lavanya.png" width="500">
+<img src="lavanya.png" width="500" />
 
 
 - 🔭 I’m currently working on my term project and learning SQL and interesting data visualization methods. I’m looking to collaborate on data wrangling. Ask me about machine learning models and EDA.
