@@ -1,4 +1,4 @@
-### Hello fellow learners  👋
+### Hello fellow machine learning enthusiasts 👋
 
 
   ![](lav.png)
