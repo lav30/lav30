@@ -8,4 +8,4 @@
 - Take a look at my [Project Portfolio](https://lav30.github.io/Projects/) !
 
 
-- Visit my [Photography Portfolio](https://lav30.github.io/photography/)
+- Visit my [Photography Portfolio](https://lav30.github.io/photography/) (Kindly be patient. It takes a minute to load.)
